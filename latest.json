@@ -1,0 +1,15 @@
+{
+  "version": "0.0.3",
+  "notes": "This release introduces version tracking and updating",
+  "pub_date": "2024-04-22T16:39:36.457Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVkd6Znl1SytBS2ZKTWYvN2JFeFRoRDR2V0t4eGhudUJLSG95dGozTTVtWWVwNy90ZVFGbGhjalUweXlxTFZTalF1czUvMTRUN1h4SkY4Z0tlZ1RqS0VDSlBYZGtnTHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODAzOTEwCWZpbGU6RmxldXIuYXBwLnRhci5negpQcWtvczU4SjhpYnFvRmhyWVoweUdZT2lPd213REVQWENRVGFqeFJXOUU1Y2xjdXNZL1pLQlBrTGdoOG00S2lVMjd1cTQxa0wxMldNTzdkRUxLb2FEZz09Cg==",
+      "url": "https://github.com/enzo-rma/fleur/releases/download/app-v0.0.3/Fleur_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVkd6Znl1SytBS1ozR0hTbTNwaVZyR28vSHc4VUdYTmdVNllUYkhQK1Q5QWdXbjhqUk1kd2JOSFZ1aTNqekovWmtic3Myd2tzVGdhVzdTUkFYWWhYVU91SXJDNkVtMHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODAzOTcyCWZpbGU6RmxldXIuYXBwLnRhci5negp2YWh6NGhvYWM2SmVBbDFqOGtxYmMzMVdCMFlpS3o1dHNIUEZDQmRFaEhMUG9XbXdrUFN5bmx4NzdwbFkwSDVlWmtvbW1oTWhtZENhNkRieDlIOEZBQT09Cg==",
+      "url": "https://github.com/enzo-rma/fleur/releases/download/app-v0.0.3/Fleur_x64.app.tar.gz"
+    }
+  }
+}
