@@ -1,15 +1,15 @@
 {
-  "version": "0.0.9",
+  "version": "0.0.10",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2024-04-23T13:37:41.962Z",
+  "pub_date": "2024-04-24T06:54:58.395Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVkd6Znl1SytBS1U1d25ob0hiZHYrbDZRQ25TT2pwSlY2WGg3c3Aydi9IUER5VUdpd0pTcWJlMDlDYWpmdnJCTzBZUXI1NnVWYmhNc0h1UStHemN2QldmNmR4UEVIMVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODc5NDU4CWZpbGU6RmxldXIuYXBwLnRhci5negppbWtYMmFwN2JmTWxIc1lha0JXTmFpWXpEclA1SWhqNjU1VWlTaTI0YlJGYmdvdnpQOEJURzVianN1Ym9KZXdySnhFaHVNWkFyRG9JWkI5TWhoMFBCdz09Cg==",
-      "url": "https://github.com/fleur-so/releases/releases/download/app-v0.0.9/Fleur_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVkd6Znl1SytBS2RHWjBLNkVNRmJUNDRTK2ozbkd5THRQUndhbHBaNkRZaVIxam5Md0w1Zm82TERFRG5XTjJONzJ2aVpQMisvTDJ1aUNjTHc5MnlyOGhrTXVVT1RmK2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzOTQxNjk0CWZpbGU6RmxldXIuYXBwLnRhci5negpYOVR4MENhREJ0NFFncnVKbnZOZExTL1AvWVV2dmlTbkhFcWlET1E1M0tMSUhXU0Q4b0JUQWRpZ0ZHV1EzamNBK2NPczllalIvMFo5aVIzMDBBdFpDZz09Cg==",
+      "url": "https://github.com/fleur-so/releases/releases/download/app-v0.0.10/Fleur_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVkd6Znl1SytBS1U1d25ob0hiZHYrbDZRQ25TT2pwSlY2WGg3c3Aydi9IUER5VUdpd0pTcWJlMDlDYWpmdnJCTzBZUXI1NnVWYmhNc0h1UStHemN2QldmNmR4UEVIMVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODc5NDU4CWZpbGU6RmxldXIuYXBwLnRhci5negppbWtYMmFwN2JmTWxIc1lha0JXTmFpWXpEclA1SWhqNjU1VWlTaTI0YlJGYmdvdnpQOEJURzVianN1Ym9KZXdySnhFaHVNWkFyRG9JWkI5TWhoMFBCdz09Cg==",
-      "url": "https://github.com/fleur-so/releases/releases/download/app-v0.0.9/Fleur_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVkd6Znl1SytBS2RHWjBLNkVNRmJUNDRTK2ozbkd5THRQUndhbHBaNkRZaVIxam5Md0w1Zm82TERFRG5XTjJONzJ2aVpQMisvTDJ1aUNjTHc5MnlyOGhrTXVVT1RmK2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzOTQxNjk0CWZpbGU6RmxldXIuYXBwLnRhci5negpYOVR4MENhREJ0NFFncnVKbnZOZExTL1AvWVV2dmlTbkhFcWlET1E1M0tMSUhXU0Q4b0JUQWRpZ0ZHV1EzamNBK2NPczllalIvMFo5aVIzMDBBdFpDZz09Cg==",
+      "url": "https://github.com/fleur-so/releases/releases/download/app-v0.0.10/Fleur_universal.app.tar.gz"
     }
   }
 }
